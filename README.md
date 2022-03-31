@@ -1,4 +1,4 @@
-# Next.JS and MongoDB
+# CRUD App Using Next.JS and MongoDB
 ### Tecnology used in this project:
 
 - Next.Js [Next.js](https://nextjs.org/)
