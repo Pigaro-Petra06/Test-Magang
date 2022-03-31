@@ -28,19 +28,6 @@ export default async function handler(req, res) {
         console.log(error);
         res.status(500).json({ success: false, error });
       }
-      /* if (req.body.id){
-        console.log(req.body.id);
-        const { uId, fname, lname, email, phone, address } = req.body;
-      if (!uId && !fname && !lname && !email && !phone && !address) return "invalid data";
-      await Client.updateOne({ _id: req.body.id }, { uId, fname, lname, email, phone, address });
-      res.status(200).json({ success: true });
-      }else{
-        const { uId, fname, lname, email, phone, address } = req.body;
-        console.log("create")
-        if (!uId && !fname && !lname && !email && !phone && !address) throw "invalid data";
-        const client = await Client.create({ uId, fname, lname, email, phone, address });
-        res.status(201).json({success:true, data:client}); 
-      } */
       break;
 
 
