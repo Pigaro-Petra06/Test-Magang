@@ -1,5 +1,5 @@
 # next-js-crud-mongodb
-### Tecnologias used in this project:
+### Tecnology used in this project:
 
 - Next.Js [Next.js](https://nextjs.org/)
 - Chakra UI [Chakra-ui](https://chakra-ui.com/)
