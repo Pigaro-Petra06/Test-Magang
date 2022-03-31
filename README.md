@@ -17,7 +17,7 @@ Yarn and NPM link bellow</p>
 #### 1. Clone the project
 
 ```
-git clone: 
+git clone: https://github.com/Pigaro-Petra06/Test-Magang.git
 
 cd next-js-crud-mongodb
 ```
