@@ -19,7 +19,7 @@ Yarn and NPM link bellow</p>
 ```
 git clone: https://github.com/Pigaro-Petra06/Test-Magang.git
 
-cd next-js-crud-mongodb
+cd Test-Magang
 ```
 
 #### 2. Install on terminal with command below
